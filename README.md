@@ -10,7 +10,7 @@ A developer guide for poker mathematics — probability, expected value, combina
 [![JEROME](https://img.shields.io/badge/Engine-JEROME-8B5CF6?style=flat-square)](https://github.com/ChinnaphatLoha/JEROME)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-[Read the Guide →](https://ChinnaphatLoha.github.io/jesus-ferguson/)
+[Read the Guide →](https://jesus-ferguson.vercel.app)
 
 </div>
 
